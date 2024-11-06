@@ -14,11 +14,11 @@
 
 ### Code
 
-Find the code for this project [here]().
+Find the code for this project [here](https://github.com/ihechikara/photoresistor-arduino/blob/main/photores.ino).
 
-Watch the video for this project [here]().
+Watch the video for this project [here](https://youtu.be/u2RIwc8hyLU?si=eFNdWrNizH88_QGx).
 
-Read the article for this project [here]().
+Read the article for this project [here](https://ihechikara.com/posts/how-to-use-a-photoresistor-in-arduino/).
 
 Subscribe to my [YouTube channel](https://www.youtube.com/@Ihechikara) for more videos on embedded systems and web development.
 
